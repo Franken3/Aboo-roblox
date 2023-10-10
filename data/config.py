@@ -1,10 +1,7 @@
 import os
 
-from dotenv import load_dotenv
 
-load_dotenv()
-
-BOT_TOKEN = str(os.getenv("BOT_TOKEN"))
+BOT_TOKEN = str('6591583835:AAE1nwgLqlFlLrDc0xxdE7yhb9DGWY4yPgU')
 
 admins = [
 
